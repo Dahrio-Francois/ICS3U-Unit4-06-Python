@@ -20,10 +20,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="6" value="Pizza Cost" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="6" value="RGB Values" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="384" y="40" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="12" target="24">
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" parent="1" source="12" target="24" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="280" y="280"/>
@@ -31,10 +31,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" edge="1" parent="1" source="12" target="25">
+                <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" parent="1" source="12" target="25" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="12" target="26">
+                <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" parent="1" source="12" target="26" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="280" y="280"/>
@@ -54,13 +54,13 @@
                 <mxCell id="21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Print (counter1, counter2, counter3)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="580" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="for counter1 in range(255)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="24" value="for counter1 in range(255)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="for counter2 in range(255)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="25" value="for counter2 in range(255)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="220" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="for counter3 in range(255)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="26" value="for counter3 in range(255)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
